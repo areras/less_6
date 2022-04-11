@@ -17,7 +17,7 @@ public class MainClass {
         String[][] stringArray2 = new String[][] {
                 {"5", "2", "3","4"},
                 {"1", "2", "3", "4"},
-                {"1", "2", "5", "6"},
+                {"1", "2", "5.5", "6"},
                 {"1", "2", "4", "9"}
         };
         String[][] stringArray3 = new String[][] {
